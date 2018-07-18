@@ -8,3 +8,7 @@ However, the above fails to compile when running make which I rectified using CM
 
 All the code presented here except for the Cmake related files is lawful property of its copyright owners if any.
 
+Dependencies:
+Boost library.
+X11 Library.
+
